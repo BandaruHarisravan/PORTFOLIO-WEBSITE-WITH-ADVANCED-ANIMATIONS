@@ -42,4 +42,8 @@ Clean Aesthetic: A neat layout that makes use of contemporary design concepts, s
 Contact Section: Provides links to social media or email addresses so that prospective employers or partners may get in touch.
 
 #Output :
+![Image](https://github.com/user-attachments/assets/5a049110-8b94-4662-a2f9-2e98df759a27)
+![Image](https://github.com/user-attachments/assets/3a2c1e6f-e238-4b7a-842e-87ff32041e47)
+![Image](https://github.com/user-attachments/assets/aa836105-4a34-4863-a3f0-53858ccc510c)
+![Image](https://github.com/user-attachments/assets/0e3b0f67-c9b3-4bb0-a72e-386ac1be3cdc)
 
